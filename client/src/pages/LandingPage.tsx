@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
-import { ArrowRight, Heart, Moon, Sun, Camera, CheckCircle2 } from "lucide-react";
+import { ArrowRight, Heart, Moon, Sun, Camera, CheckCircle2, Scale } from "lucide-react";
 import { useAuth } from "@/hooks/use-auth";
 
 export default function LandingPage() {
